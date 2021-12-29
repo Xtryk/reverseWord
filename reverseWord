@@ -1,7 +1,7 @@
 public class reverseWord{
 
     public static void main(String[] args){
-        String word = "Kutonapletesowaty Sedes";
+        String word = "Porcelanowy Sedes";
         String nword= "";
         char ch;
 
